@@ -1,0 +1,2 @@
+# typescriptinicio
+Pruebas de typescript
